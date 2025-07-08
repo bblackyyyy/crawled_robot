@@ -53,7 +53,7 @@ The robot architecture includes:
 3. Wire the driver to Arduino .
 4. Connect MDS-60 to the Arduino (analog/digital pin depending on configuration).
 ![Schematic Diagram](pic/scheme1.png)
-![Scheme by hand](pic/own.PNG)
+
 
 ### 2. Arduino Programming
 
