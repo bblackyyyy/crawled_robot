@@ -55,6 +55,8 @@ The robot architecture includes:
 2. Connect motors to the L298N driver.
 3. Wire the driver to Arduino .
 4. Connect MDS-60 to the Arduino (analog/digital pin depending on configuration).
+
+
 ![Schematic Diagram](pic/scheme1.png)
 
 
@@ -89,9 +91,11 @@ Robot location is determined using [ip-api.com](https://ip-api.com), which retur
 
 
 ### Robot Photo
+
 ![Robot Photo](pic/p1.jpg)
 
 ### Top View of the Robot
+
 ![Top View](pic/p5.jpg)
 
 ---
