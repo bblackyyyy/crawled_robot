@@ -4,6 +4,8 @@
 #include <ArduinoHttpClient.h>
 
 
+
+
 const char* ssid     = "ssid"; //ssid for Wi-Fi network
 const char* password = "password";// password of Wi-Fi network
 
