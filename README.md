@@ -2,7 +2,7 @@
 
 ## Overview
 
-**XCrawled RPBT** is a DIY robot built on the DFRobot Black Gladiator chassis. It combines remote control, GPS-based localization, and metal detection in one functional platform. The project leverages Arduino, WiFi communication, and a web interface to interact with the robot in real-time.
+**Crawled robot** is a DIY robot built on the DFRobot Black Gladiator chassis. It combines remote control, GPS-based localization, and metal detection in one functional platform. The project leverages Arduino, WiFi communication, and a web interface to interact with the robot in real-time.
 
 ## Features
 
