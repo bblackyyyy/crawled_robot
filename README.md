@@ -38,6 +38,7 @@ The robot architecture includes:
 - **MDS-60 Sensor**: For metal detection
 - **Supabase**: Backend for GPS data storage
 - **Web Interface**: User interface to control and monitor the robot
+![Control page](pic/robot_control.png)
 
 ---
 
@@ -67,7 +68,8 @@ The robot architecture includes:
 - Create a new Supabase project.
 - Set up a table with fields for `longitude`, `latitude`, and `timestamp`.
 - Replace Supabase keys and API URLs in your Arduino code.
-- 
+![example of DB](pic/baza.png)
+
 
 ---
 
